@@ -1,0 +1,23 @@
+{
+  "name": "squirrels",
+  "version": "1.0.0",
+  "description": "\"Filters out a list of squirrels\"",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragosgn/squirrels.git"
+  },
+  "keywords": [
+    "filtering",
+    "filter"
+  ],
+  "author": "Dragos G Nedelcu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragosgn/squirrels/issues"
+  },
+  "homepage": "https://github.com/dragosgn/squirrels#readme"
+}
